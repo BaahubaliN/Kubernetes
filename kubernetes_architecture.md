@@ -3,8 +3,9 @@ This document explains the key components that make up the architecture of a Kub
 
 **Kubernetes Architecture Diagram**
 
-Control Plane (Master Node Components)/
-Worker Node Components/
+
+Control Plane (Master Node Components) 
+Worker Node Components
 Other Components
 
 **Control Plane (Master Node Components)**
